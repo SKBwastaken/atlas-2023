@@ -1,0 +1,59 @@
+{
+	"id": -1,
+	"name": "Greg and Serrif",
+	"description": "Greg and Serrif, both working at discord, fixed the r/placeDE server, ending the 3 hour outage and enabling us to reach over 150.000 users.",
+	"links": {
+		"website": [
+			"https://discord.com/"
+		],
+		"discord": [
+			"placede"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-1177,
+				-444
+			],
+			[
+				-1177,
+				-414
+			],
+			[
+				-1117,
+				-414
+			],
+			[
+				-1118,
+				-444
+			],
+			[
+				-1138,
+				-444
+			],
+			[
+				-1143,
+				-450
+			],
+			[
+				-1147,
+				-448
+			],
+			[
+				-1151,
+				-450
+			],
+			[
+				-1155,
+				-444
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-1147,
+			-430
+		]
+	}
+}
